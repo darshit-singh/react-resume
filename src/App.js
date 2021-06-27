@@ -5,19 +5,16 @@ import Contact from './Components/Contact';
 import Footer from './Components/Footer';
 import Portfolio from './Components/Portfolio';
 import Resume from './Components/Resume';
-import Testimonials from './Components/Testimonials';
 
 function App() {
   return (
     <div className="App">
-      hi
       <Header />
       <About />
+      <Resume />
+      <Portfolio />
       <Contact />
       <Footer />
-      <Portfolio />
-      <Resume />
-      <Testimonials />
     </div>
   );
 }
