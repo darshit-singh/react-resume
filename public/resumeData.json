@@ -1,8 +1,10 @@
 {
     "main": {
-        "name": "Brad Traversy",
-        "occupation": "Web developer, programmer and designer",
+        "name": "Darshit",
+        "occupation": "Software engineer(Frontend)",
         "description": "I design and program websites and web applications of all types. I also teach web dev courses",
+        "workplace": "Pristyn Care",
+        "workplaceUrl": "https://www.pristyncare.com",
         "image": "profilepic.jpg",
         "bio": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
         "email": "bradtraversy@gmail.com",
@@ -17,39 +19,14 @@
         "resumedownload": "http://something.com",
         "social": [
             {
-                "name": "facebook",
-                "url": "http://facebook.com",
-                "className": "fa fa-facebook"
-            },
-            {
-                "name": "twitter",
-                "url": "http://twitter.com",
-                "className": "fa fa-twitter"
-            },
-            {
-                "name": "google-plus",
-                "url": "http://googleplus.com",
-                "className": "fa fa-google-plus"
-            },
-            {
                 "name": "linkedin",
                 "url": "http://linkedin.com",
                 "className": "fa fa-linkedin"
             },
             {
-                "name": "instagram",
-                "url": "http://instagram.com",
-                "className": "fa fa-instagram"
-            },
-            {
                 "name": "github",
                 "url": "http://github.com",
                 "className": "fa fa-github"
-            },
-            {
-                "name": "skype",
-                "url": "http://skype.com",
-                "className": "fa fa-skype"
             }
         ]
     },
