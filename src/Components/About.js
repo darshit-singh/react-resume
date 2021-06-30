@@ -28,7 +28,7 @@ class About extends Component {
                             <div className="columns contact-details">
                                 <h2>Contact Details</h2>
                                 <p className="address">
-                                    <span>Jonathan Doe</span><br />
+                                    <span>{name}</span><br />
                                     <span>1600 Amphitheatre Parkway<br />
                                         Mountain View, CA 94043 US
                                     </span><br />
