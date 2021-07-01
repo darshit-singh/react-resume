@@ -42,11 +42,11 @@ class App extends Component {
             <div className="App">
                 <Header data={resumeData.main} />
                 <About data={resumeData.main} />
-                <Resume />
-                <Portfolio />
-                <Testimonials />
-                <Contact />
-                <Footer />
+                <Resume data={resumeData.main} />
+                <Portfolio data={resumeData.main} />
+                <Testimonials data={resumeData.main} />
+                <Contact data={resumeData.main} />
+                <Footer data={resumeData.main} />
             </div>
         );
     }
