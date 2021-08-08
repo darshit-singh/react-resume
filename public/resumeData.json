@@ -7,7 +7,7 @@
         "workplaceUrl": "https://www.pristyncare.com",
         "image": "profilepic.jpg",
         "bio": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
-        "email": "bradtraversy@gmail.com",
+        "email": "darshit.singh.sarna@gmail.com",
         "phone": "555-555-5555",
         "address": {
             "street": "933 Albany st, Suite 3",
@@ -16,16 +16,16 @@
             "zip": "20293"
         },
         "website": "http://www.techguywebsolutions.com",
-        "resumedownload": "http://something.com",
+        "resumedownload": "https://www.google.com",
         "social": [
             {
                 "name": "linkedin",
-                "url": "http://linkedin.com",
+                "url": "https://www.linkedin.com/in/darshit-singh-sarna",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "github",
-                "url": "http://github.com",
+                "url": "https://github.com/darshit-singh",
                 "className": "fa fa-github"
             }
         ]
@@ -61,16 +61,12 @@
         ],
         "skills": [
             {
-                "name": "Photoshop",
-                "level": "60%"
+                "name": "Javascript",
+                "level": "90%"
             },
             {
-                "name": "Illustrator",
-                "level": "55%"
-            },
-            {
-                "name": "Wordpress",
-                "level": "50%"
+                "name": "React JS",
+                "level": "85%"
             },
             {
                 "name": "CSS",
@@ -78,13 +74,18 @@
             },
             {
                 "name": "HTML5",
+                "level": "90%"
+            },
+            {
+                "name": "Firebase",
                 "level": "80%"
             },
             {
-                "name": "jQuery",
-                "level": "50%"
+                "name": "Competitive Programming",
+                "level": "70%"
             }
-        ]
+        ],
+        "skillsDescription": "enter skill description"
     },
     "portfolio": {
         "projects": [
