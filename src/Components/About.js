@@ -12,7 +12,7 @@ class About extends Component {
             var zip = this.props.data.address.zip;
             var phone = this.props.data.phone;
             var email = this.props.data.email;
-            var resumeDownload = this.props.data.resumeDownload;
+            var resumeDownload = this.props.data.resumedownload;
 
         }
         return (
@@ -29,16 +29,16 @@ class About extends Component {
                                 <h2>Contact Details</h2>
                                 <p className="address">
                                     <span>{name}</span><br />
-                                    <span>1600 Amphitheatre Parkway<br />
+                                    {/* <span>1600 Amphitheatre Parkway<br />
                                         Mountain View, CA 94043 US
                                     </span><br />
-                                    <span>(123)456-7890</span><br />
-                                    <span>anyone@website.com</span>
+                                    <span>(123)456-7890</span><br /> */}
+                                    <span>{email}</span>
                                 </p>
                             </div>
                             <div className="columns download">
                                 <p>
-                                    <a href="#!" className="button"><i className="fa fa-download"></i>Download Resume</a>
+                                    <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
                                 </p>
                             </div>
                         </div>
