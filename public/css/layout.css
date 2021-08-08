@@ -312,6 +312,12 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
 	top: -36px;
 }
+@media only screen and (max-width: 350px) {
+   .bars li:nth-child(6) em{
+      top: -40px;
+   }
+}
+
 .bar-expand {
    position: absolute;
    left: 0;
