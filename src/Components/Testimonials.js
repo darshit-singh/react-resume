@@ -11,14 +11,14 @@ class Testimonials extends Component {
                                 <ul className="slides">
                                     <li>
                                         <blockquote>
-                                            <p>hahahaha</p>
-                                            <cite>ok</cite>
+                                            <p>Enthusiasm is common. Endurance is rare.</p>
+                                            <cite>Angela Duckworth, Grit: The Power of Passion and Perseverance</cite>
                                         </blockquote>
                                     </li>
                                     <li>
                                         <blockquote>
-                                            <p>gagag</p>
-                                            <cite>jaja</cite>
+                                            <p>Keep learning and keep moving forward.</p>
+                                            <cite>My philosophy</cite>
                                         </blockquote>
                                     </li>
                                 </ul>
