@@ -56,7 +56,7 @@ class Resume extends Component {
                         <h1><span>Skills</span></h1>
                     </div>
                     <div className="nine columns main-col">
-                        <p>{skillsDescription}</p>
+                        {/* <p>{skillsDescription}</p> */}
                         <div className="bars">
                             {skills && <ul className="skills">
                                 <li><span className="bar-expand photoshop"></span><em>{skills[0].name}</em></li>

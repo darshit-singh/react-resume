@@ -8,6 +8,7 @@ class Header extends Component {
             var description = this.props.data.description;
             var workplace = this.props.data.workplace;
             var workplaceUrl = this.props.data.workplaceUrl;
+            var blogUrl = this.props.data.blogUrl;
             var networks = this.props.data.social.map((network) => {
                 return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
             })
@@ -31,7 +32,7 @@ class Header extends Component {
                 <div className="row banner">
                     <div className="banner-text">
                         <h1 className="responsive-headline">I'm {name}.</h1>
-                        <h3>I'm currently working as a <span style={{ color: '#F06000' }}>{occupation}</span> at <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000' }} href={workplaceUrl}>{workplace}.</a></span><br /> {description}</h3>
+                        <h3>I'm currently working as a <span style={{ color: '#F06000' }}>{occupation}</span> at <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000' }} href={workplaceUrl}>{workplace}.</a></span><br /> {description} <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000' }} href={blogUrl}>here.</a></span><br /></h3>
                         <hr />
                         <ul className="social">
                             {networks}
