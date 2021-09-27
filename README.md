@@ -1,6 +1,6 @@
 # React Resume
 ## Hey there! This is my website that I made with ReactJS, hope you enjoy.
-## Check out the [LIVE](https://darshit-singh.github.io/react-resume) version.
+## Check out the [LIVE](http://google.com) version.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I created this website as a fun little side project which uses a JSON file to fetch the resume information. If you wanna see how the website looks with your info, feel free to download the source code and run it locally.
 
@@ -11,7 +11,5 @@ You can just download the code, or clone the repository. Type in:
 2. `npm start`
 3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 4. You can edit the JSON file inside public folder, called `resumeData.json` and that would be reflected on the site.
-
-View instructions to deploy this app to github pages [HERE](https://create-react-app.dev/docs/deployment/#github-pages).
 
 Thanks for checking it out :)
