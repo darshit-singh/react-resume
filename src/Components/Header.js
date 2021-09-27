@@ -24,7 +24,7 @@ class Header extends Component {
                         <li><a className="smoothscroll" href="#resume">Resume</a></li>
                         {/* <li><a className="smoothscroll" href="#portfolio">Works</a></li> */}
                         <li><a className="smoothscroll" href="#testimonials">Quotes</a></li>
-                        <li><a className="smoothscroll" href="#contact">Contact</a></li>
+                        {/* <li><a className="smoothscroll" href="#contact">Contact</a></li> */}
                     </ul>
 
                 </nav>
@@ -32,7 +32,7 @@ class Header extends Component {
                 <div className="row banner">
                     <div className="banner-text">
                         <h1 className="responsive-headline">I'm {name}.</h1>
-                        <h3>I'm currently working as a <span style={{ color: '#F06000' }}>{occupation}</span> at <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000' }} href={workplaceUrl}>{workplace}.</a></span><br /> {description} <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000' }} href={blogUrl}>here.</a></span><br /></h3>
+                        <h3>I'm currently working as a <span style={{ color: '#F06000' }}>{occupation}</span> at <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000', fontWeight: '500' }} href={workplaceUrl}>{workplace}.</a></span><br /> {description} <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000', fontWeight: '700' }} href={blogUrl}>here.</a></span><br /></h3>
                         <hr />
                         <ul className="social">
                             {networks}

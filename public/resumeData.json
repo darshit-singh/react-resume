@@ -9,14 +9,6 @@
         "bio": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
         "email": "darshit.singh.sarna@gmail.com",
         "blogUrl": "https://darshitsingh.hashnode.dev/",
-        "phone": "555-555-5555",
-        "address": {
-            "street": "933 Albany st, Suite 3",
-            "city": "Boston",
-            "state": "MA",
-            "zip": "20293"
-        },
-        "website": "http://www.techguywebsolutions.com",
         "resumedownload": "https://www.google.com",
         "social": [
             {
@@ -60,12 +52,12 @@
         ],
         "skills": [
             {
-                "name": "Web development",
-                "level": "95%"
-            },
-            {
                 "name": "Javascript",
                 "level": "90%"
+            },
+            {
+                "name": "python",
+                "level": "75%"
             },
             {
                 "name": "React JS",
@@ -76,12 +68,12 @@
                 "level": "80%"
             },
             {
-                "name": "python",
+                "name": "Competitive Programming",
                 "level": "70%"
             },
             {
-                "name": "Competitive Programming",
-                "level": "70%"
+                "name": "Web development",
+                "level": "95%"
             }
         ],
         "skillsDescription": "Some of my evergrowing skills"
