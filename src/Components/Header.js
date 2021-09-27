@@ -34,7 +34,7 @@ class Header extends Component {
                         <h1 className="responsive-headline">I'm {name}.</h1>
                         <h3>I'm currently working as a <span style={{ color: '#F06000' }}>{occupation}</span> at <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000', fontWeight: '500' }} href={workplaceUrl}>{workplace}.</a></span><br /> {description} <span><a target="_blank" rel="noreferrer" style={{ color: '#F06000', fontWeight: '700' }} href={blogUrl}>here.</a></span><br /></h3>
                         <hr />
-                        <ul className="social">
+                        <ul className="social" style={{ fontSize: '35px' }}>
                             {networks}
                         </ul>
                     </div>
