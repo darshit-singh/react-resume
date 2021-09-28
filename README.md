@@ -2,6 +2,8 @@
 ## Hey there! This is my website that I made with ReactJS, hope you enjoy.
 ## Check out the [LIVE](https://darshit-singh-resume.netlify.app/) version.
 
+![image](https://user-images.githubusercontent.com/28698459/135030207-3dd52f52-e73b-48d9-99d4-1aa0146ff7fa.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I created this website as a fun little side project which uses a JSON file to fetch the resume information. If you wanna see how the website looks with your info, feel free to download the source code and run it locally.
 
 ## If you want to run this project locally on your machine
